@@ -20,7 +20,7 @@
 | 1   | [自己.skill](https://github.com/notdog1998/yourself-skill)       | 用自己的聊天记录，活出另一个自己   |
 | 2   | [反蒸馏 Skill](https://github.com/leilei926524-tech/anti-distill) | 把能公开的技能和私货分开，优雅交付  |
 | 3   | [数字人生.skill](https://github.com/wildbyteai/digital-life)       | 你在网上冲浪的痕迹，拼出你的数字分身 |
-
+| 4   | [女娲.skill](https://github.com/alchaincyf/nuwa-skill)        |  女娲帮你蒸馏任何人 |   
 ## 关于身边人
 
 老板、同事、导师、爸妈、crush、前任……把真实关系装进 AI。
